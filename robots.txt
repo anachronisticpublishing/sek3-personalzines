@@ -1,1 +1,1 @@
-Sitemap: http://www.sek3.org/sitemap.xml
+Sitemap: https://www.sek3.org/sitemap.xml
